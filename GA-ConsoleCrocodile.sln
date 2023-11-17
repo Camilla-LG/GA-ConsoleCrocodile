@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA-ConsoleCrocodile", "GA-ConsoleCrocodile.csproj", "{E9820651-737E-47F6-B3EE-63DC0FC8C90E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9820651-737E-47F6-B3EE-63DC0FC8C90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9820651-737E-47F6-B3EE-63DC0FC8C90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9820651-737E-47F6-B3EE-63DC0FC8C90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9820651-737E-47F6-B3EE-63DC0FC8C90E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD41F35D-2520-4FB2-8162-97A1069645C2}
+	EndGlobalSection
+EndGlobal
