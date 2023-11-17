@@ -10,10 +10,15 @@ namespace GA_ConsoleCrocodile
         static void Main()
         {
             int i = 0;
-            int userPoints = Convert.ToInt32(0);
+            int userPoints = 0;
             int consolePoints = 0;
+            int rounds = 0;
 
-            while (i < 6)
+            Console.WriteLine("Velkommen til krokodillespillet!");
+            Console.WriteLine("Hvor mange runder vil du spille?");
+            rounds = Convert.ToInt32(Console.ReadLine());
+
+            while (i < rounds)
             {
                 Random random = new Random();
                 int number1 = Convert.ToInt32(random.Next(0, 10));
