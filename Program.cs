@@ -1,5 +1,4 @@
-﻿using System.Runtime.InteropServices;
-using Microsoft.VisualBasic.CompilerServices;
+﻿
 
 namespace GA_ConsoleCrocodile
 {
@@ -10,9 +9,9 @@ namespace GA_ConsoleCrocodile
         static void Main()
         {
             int i = 0;
-            int userPoints = 0;
+            int userPoints = 0; 
             int consolePoints = 0;
-            int rounds = 0;
+            int rounds;
 
             Console.WriteLine("Velkommen til krokodillespillet!");
             Console.WriteLine("Hvor mange runder vil du spille?");
